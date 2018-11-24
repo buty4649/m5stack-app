@@ -1,0 +1,8 @@
+{
+    "mackerel": {
+        "apikey": "<APIKEY>"
+    },
+    "wifi": {
+        "<SSID>": "<PASSWORD>"
+    }
+}
